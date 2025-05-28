@@ -1,7 +1,7 @@
 # CombinatorialEvaluation 
 A python library to compute combinatorial evaluation
 
-!["Scatter plots"]("[https://github.com/Taiki-Yamada-Math/CombinatorialEvaluation/blob/main/figures/scatter.png](https://github.com/Taiki-Yamada-Math/CombinatorialEvaluation/blob/main/figures/scatter.png)")
+![Image](https://github.com/user-attachments/assets/19550769-4831-4a13-8e66-00b2f0335246)
 
 # Simple Example
 
