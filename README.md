@@ -1,6 +1,8 @@
 # CombinatorialEvaluation 
 A python library to compute combinatorial evaluation
 
+!["Scatter plots"]("figures/scatter.png")
+
 # Simple Example
 
 # Contact
