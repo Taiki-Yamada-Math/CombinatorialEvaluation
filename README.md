@@ -1,5 +1,9 @@
 # CombinatorialEvaluation 
-A python library to compute combinatorial evaluation
+A python library to compute combinatorial evaluation. 
+
+---
+
+Combinatorial evaluation is a quantitative measure that combines the discrete geometry concept of Forman Ricci curvature and the game theory concept of Shapley value, and is useful for identifying the most important vertices in a network. It has a high correlation with network centrality and can be defined for more complex networks, making it highly versatile and applicable to a wide range of fields.
 
 ![Image](https://github.com/user-attachments/assets/19550769-4831-4a13-8e66-00b2f0335246)
 
@@ -22,6 +26,8 @@ CE
 ```
 
 # Contact
+
+See [my homepage](https://researchmap.jp/taikiyamada?lang=en).
 
 # Cite
 If you use this code in your research, please considering cite our paper:
